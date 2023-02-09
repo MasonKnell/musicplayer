@@ -6,6 +6,8 @@ import ddf.minim.spi.*;
 import ddf.minim.ugens.*;
 //
 //Global Variables
+Minim minim;
+Audioplayer song = new Audioplayer
 //
 void setup() {} //End setup
 //
